@@ -66,6 +66,9 @@ section > .col-10::-webkit-scrollbar-thumb {
 .h-100vh{
     height: 100vh;
 }
+.h-101{
+    height: 101px;
+}
 .bg-gray {
     background-color: #f9fafb;
 }
@@ -115,7 +118,9 @@ a {
 .w-64 {
     width: 64px;
 }
-
+.w-120 {
+    width: 120px;
+}
 .w-184 {
     width: 184px;
 }
@@ -175,15 +180,15 @@ a {
 }
 
 .nav-tabs .nav-link.active {
-    color: #1F2A37 !important;
+    color: #00BED8 !important;
     border-color: transparent;
-    border-bottom: 3px solid #1F2A37;
+    border-bottom: 3px solid #00BED8;
 }
 
 .nav-tabs .nav-link:hover {
     border-color: transparent;
-    color: #1F2A37 !important;
-    border-bottom: 3px solid #1F2A37;
+    color: #00BED8 !important;
+    border-bottom: 3px solid #00BED8;
 }
 
 /* sidebar */
