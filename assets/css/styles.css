@@ -354,7 +354,7 @@ table img{
 }
 
 @media only screen and (max-width:768px) {
-    .w-390 {
+    .w-390,#myTable_filter, #myTable2_filter  {
         width: 100%;
     }
     .dataTables_wrapper .dataTables_filter {
